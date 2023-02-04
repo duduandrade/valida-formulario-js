@@ -1,5 +1,5 @@
-# Título do Projeto
-Formulário de cadastro
+# Formulário de Cadastro
+Formulário de cadastro desenvolvido com JavaScript
 
     
 ## Stack utilizada
